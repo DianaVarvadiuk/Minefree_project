@@ -1,0 +1,14 @@
+{
+  "name": "automationcypress",
+  "version": "1.0.0",
+  "description": "cypress demo project",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Diana",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.7.0"
+  }
+}
